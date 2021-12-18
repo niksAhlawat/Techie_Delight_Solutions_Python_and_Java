@@ -17,7 +17,7 @@ Output: ()
 
 
 
-package Practice.Find_Pairs;
+package practice.find_pairs;
 
 import java.util.HashMap;
 import java.util.Map;
